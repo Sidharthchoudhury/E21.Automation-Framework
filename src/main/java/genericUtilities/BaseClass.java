@@ -41,7 +41,6 @@ public class BaseClass
 	{
 		String URL = fu.readDataFromPropertyFile("url");
 		
-
 	//	driver=new EdgeDriver();
 		
 		//for cross browser execution
