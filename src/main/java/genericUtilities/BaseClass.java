@@ -40,6 +40,7 @@ public class BaseClass
 	public void bcConfig(/*String pValue*/) throws IOException
 	{
 		String URL = fu.readDataFromPropertyFile("url");
+		
 
 	//	driver=new EdgeDriver();
 		
