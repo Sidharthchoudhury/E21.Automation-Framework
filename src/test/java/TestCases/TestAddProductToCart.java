@@ -50,6 +50,8 @@ public class TestAddProductToCart extends BaseClass
 			System.out.println("navigated to cart page");
 		else
 			System.out.println("not navigated to cart page");
+		    System.out.println("not navigated to cart page");
+
 		
 		//validate for the product in cart
 		CartPage cp=new CartPage(driver);
